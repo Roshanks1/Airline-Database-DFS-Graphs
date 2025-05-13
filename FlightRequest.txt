@@ -1,0 +1,11 @@
+10
+Dallas|Houston|T
+Dallas|Houston|C
+Chicago|Dallas|C
+Seattle|Dallas|T
+Houston|Timbuktu|C
+Houston|Timbuktu|T
+Dallas|Tunis|T
+Dubai|Dallas|C
+Austin|New York City|T
+Boston|Portland|C

@@ -1,0 +1,48 @@
+Flight 1: (Dallas | Houston) [Time]:
+Path 1: Dallas -> Houston. Time: 51 Cost: $101.00
+Path 2: Dallas -> Austin -> Chicago -> Houston. Time: 474 Cost: $407.00
+Path 3: Dallas -> Boston -> Houston. Time: 482 Cost: $300.00
+
+Flight 2: (Dallas | Houston) [Cost]:
+Path 1: Dallas -> Houston. Time: 51 Cost: $101.00
+Path 2: Dallas -> Boston -> Houston. Time: 482 Cost: $300.00
+Path 3: Dallas -> Austin -> Chicago -> Houston. Time: 474 Cost: $407.00
+
+Flight 3: (Chicago | Dallas) [Cost]:
+Path 1: Chicago -> Austin -> Dallas. Time: 239 Cost: $242.00
+Path 2: Chicago -> St. Louis -> Tulsa -> Dallas. Time: 277 Cost: $265.00
+Path 3: Chicago -> Houston -> Dallas. Time: 286 Cost: $266.00
+
+Flight 4: (Seattle | Dallas) [Time]:
+Path 1: Seattle -> Austin -> Dallas. Time: 297 Cost: $218.00
+Path 2: Seattle -> Chicago -> Austin -> Dallas. Time: 449 Cost: $372.00
+Path 3: Seattle -> Chicago -> St. Louis -> Austin -> Dallas. Time: 462 Cost: $453.00
+
+Flight 5: (Houston | Timbuktu) [Cost]:
+Path 1: Houston -> Timbuktu. Time: 2560 Cost: $975.00
+Path 2: Houston -> Chicago -> Seattle -> Timbuktu. Time: 2605 Cost: $1295.00
+Path 3: Houston -> Dallas -> Austin -> Seattle -> Timbuktu. Time: 2508 Cost: $1319.00
+
+Flight 6: (Houston | Timbuktu) [Time]:
+Path 1: Houston -> Boston -> Dubai -> Timbuktu. Time: 1580 Cost: $1398.00
+Path 2: Houston -> Dallas -> Boston -> Dubai -> Timbuktu. Time: 1623 Cost: $1489.00
+Path 3: Houston -> Dallas -> Austin -> Boston -> Dubai -> Timbuktu. Time: 1698 Cost: $1607.00
+
+Flight 7: (Dallas | Tunis) [Time]:
+Path 1: Dallas -> Boston -> Tunis. Time: 887 Cost: $695.00
+Path 2: Dallas -> Houston -> Boston -> Tunis. Time: 946 Cost: $806.00
+Path 3: Dallas -> Austin -> Boston -> Tunis. Time: 962 Cost: $813.00
+
+Flight 8: (Dubai | Dallas) [Cost]:
+Path 1: Dubai -> Boston -> Dallas. Time: 972 Cost: $688.00
+Path 2: Dubai -> Boston -> Houston -> Dallas. Time: 1031 Cost: $799.00
+Path 3: Dubai -> Boston -> Austin -> Dallas. Time: 1047 Cost: $806.00
+
+Flight 9: (Austin | New York City) [Time]:
+Path 1: Austin -> New York City. Time: 230 Cost: $160.00
+Path 2: Austin -> Chicago -> New York City. Time: 372 Cost: $264.00
+Path 3: Austin -> St. Louis -> Chicago -> New York City. Time: 385 Cost: $345.00
+
+Flight 10: (Boston | Portland) [Cost]:
+Path 1: Boston -> Portland. Time: 330 Cost: $212.00
+

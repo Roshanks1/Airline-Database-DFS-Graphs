@@ -1,0 +1,29 @@
+31
+Dallas|Austin|98|47
+Dallas|Houston|101|51
+Dallas|San Antonio|80|70
+Dallas|Acapulco|250|335
+Dallas|Mexico City|117|105
+Austin|Chicago|144|192
+Austin|St. Louis|150|130
+Austin|New York City|160|230
+Austin|Seattle|120|250
+Houston|Timbuktu|975|2560
+Houston|Chicago|165|235
+Houston|Baltimore|157|120
+Boston|Dallas|145|237
+Boston|Austin|165|265
+Boston|Houston|155|245
+Boston|Seattle|200|340
+Boston|Portland|212|330
+Boston|Dubai|543|735
+Boston|Tunis|550|650
+Seattle|Chicago|130|210
+Seattle|Timbuktu|1000|2160
+Chicago|St. Louis|75|75
+St. Louis|Tulsa|125|127
+Tulsa|Dallas|65|75
+Chicago|New York City|120|180
+New York City|London|500|420
+London|Dubai|600|480
+Dubai|Timbuktu|700|600
